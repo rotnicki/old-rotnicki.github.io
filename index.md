@@ -1,1 +1,1 @@
-# Witaj na mojej stronie GitHub!
+# Welcome to my GitHub!
