@@ -1,10 +1,12 @@
 # Welcome to my GitHub!
 
+Location: Poznań, Poland
+
 ## Contact me
 
-[Facebook][2]
-[Instagram][3]
-[Twitter][1]
+* [Facebook][2]
+* [Instagram][3]
+* [Twitter][1]
 
 
 
