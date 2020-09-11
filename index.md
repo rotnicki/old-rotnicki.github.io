@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Location: Poznań, Poland
+I'm an Apple fan :apple:
 
 ## Contact me
 
