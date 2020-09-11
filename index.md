@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I'm an Apple fan :apple:
+My GitHub id is: @rotnicki
 
 ## Contact me
 
