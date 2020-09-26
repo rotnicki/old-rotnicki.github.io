@@ -1,5 +1,3 @@
-# Accessibility specialist
-
 Visit my blog at: [a11y.report][5]
 
 ## Contact me
