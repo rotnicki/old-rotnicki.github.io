@@ -1,4 +1,2 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: Mikołaj Rotnicki
-color_scheme: dark
-footer_content: "Copyright &copy; 2020 by Mikołaj Rotnicki"
