@@ -7,7 +7,14 @@ Visit my blog at: [a11y.report][5]
 * [Instagram][3]
 * [Twitter][1]
 
-
+<svg
+  viewBox="10 10 300 100"
+  xmlns="http://www.w3.org/2000/svg"
+  stroke="red"
+  fill="grey">
+  <circle cx="50" cy="50" r="40" />
+  <circle cx="150" cy="50" r="4" />
+</svg>
 
 
 [1]: http://twitter.com/rotnicki
