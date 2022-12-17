@@ -6,6 +6,7 @@ Visit my blog at: [a11y.report][5]
 * [Facebook][2]
 * [Instagram][3]
 * [Twitter][1]
+* [Mastodon][6]
 
 <svg
   viewBox="10 10 300 100"
@@ -22,3 +23,5 @@ Visit my blog at: [a11y.report][5]
 [3]: http://instagram.com/rotnicki
 [4]: https://www.linkedin.com/in/mikolajrotnicki
 [5]: http://a11y.report
+[6]: http://mastodon.social/@rotnicki
+
