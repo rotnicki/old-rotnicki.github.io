@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
-title: Mikołaj Rotnicki
+remote_theme: "mmistakes/minimal-mistakes"
+title: Mikołaj
 
 theme: jekyll-theme-minimal
